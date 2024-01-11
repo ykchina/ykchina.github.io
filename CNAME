@@ -1,1 +1,0 @@
-ping baidu.com
